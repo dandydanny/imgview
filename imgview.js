@@ -19,7 +19,11 @@
 
 // On mouse over img link, display image
 
-
+// Ideas
+// -------------
+//
+// Look into jquery UI, but may be fun
+// to implement some fancy UI features by hand
 
 
 var imageUrl;
